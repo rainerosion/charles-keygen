@@ -2,4 +2,4 @@
 charles-keygen for springboot
 
 ## Example
-[Demo site](https://charles.rlds.tk)
+[Demo site](https://charles.rainss.cc)
